@@ -1,0 +1,15 @@
+.style {
+    background-color: white;
+    font-size: 30px;
+    color: black;
+    transition: 300ms;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    padding: 14px 28px;
+}
+.style:hover {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
